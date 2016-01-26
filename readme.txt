@@ -12,3 +12,5 @@ today the weather is so cold.
 hihi
 
 Git tracks changes
+
+reating a new branch is quick.
