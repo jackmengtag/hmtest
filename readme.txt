@@ -10,3 +10,5 @@ the first project for the git
 today the weather is so cold.
 
 hihi
+
+Git tracks changes
